@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Fireworks",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-26T16:21:10.664272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fireworks",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/01_Fireworks_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fireworks",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/02_Fireworks_Ado.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep Sending Me Black Fireworks",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/03_Keep_Sending_Me_Black_Fireworks_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fireworks",
+      "artist": "The Whitest Boy Alive",
+      "has_synced": true,
+      "path": "select/04_Fireworks_The_Whitest_Boy_Alive.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fireworks",
+      "artist": "The Sugarhill Gang",
+      "has_synced": false,
+      "path": "select/05_Fireworks_The_Sugarhill_Gang.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fireworks",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/06_Fireworks_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fireworks",
+      "artist": "XYLØ",
+      "has_synced": true,
+      "path": "select/07_Fireworks_XYLØ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Radio Fireworks (Surkin 909 Edit)",
+      "artist": "Surkin",
+      "has_synced": false,
+      "path": "select/08_Radio_Fireworks_(Surkin_909_Edit)_Surkin.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fireworks",
+      "artist": "Dntel",
+      "has_synced": false,
+      "path": "select/09_Fireworks_Dntel.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Indoor Fireworks",
+      "artist": "Elvis Costello",
+      "has_synced": false,
+      "path": "select/10_Indoor_Fireworks_Elvis_Costello.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fireworks - 12\" Version",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": false,
+      "path": "select/11_Fireworks_-_12__Version_Siouxsie_and_the_Banshees.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fireworks (12″ version)",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": false,
+      "path": "select/12_Fireworks_(12′′_version)_Siouxsie_and_the_Banshees.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fireworks",
+      "artist": "Angra",
+      "has_synced": true,
+      "path": "select/13_Fireworks_Angra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just Watch The Fireworks",
+      "artist": "Jimmy Eat World",
+      "has_synced": true,
+      "path": "select/14_Just_Watch_The_Fireworks_Jimmy_Eat_World.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fireworks",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Fireworks_IVE.txt"
+    }
+  ]
+}
